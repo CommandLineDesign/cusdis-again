@@ -121,5 +121,11 @@
         {/if}
       {/if}
     </div>
+
+    <div class="my-8" />
+
+    <div class="text-center text-gray-500 dark:text-gray-100 text-xs">
+
+    </div>
   </div>
 {/if}
